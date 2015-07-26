@@ -1,0 +1,7 @@
+# This file handles the automated testing by Shippable
+
+rvm:
+ - 2.2.2 # Current production version
+
+# Truncated because not useful for this testcase
+
